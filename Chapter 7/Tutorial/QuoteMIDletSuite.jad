@@ -1,0 +1,11 @@
+MIDlet-Name: QuoteMIDletSuite
+MIDlet-Version: 1.0
+MIDlet-Vendor: Catapult Technologies, Inc.
+MIDlet-Description: Obtain and Retrieve Quote Tutorial MIDlets
+MIDlet-Info-URL: http://www.ctimn.com/
+MIDlet-Jar-URL: http://localhost/quote.jar
+MIDlet-Jar-Size: 3000
+MicroEdition-Profile: MIDP-1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: ObtainQuote, , ObtainQuoteMIDlet
+MIDlet-2: RetrieveQuote, , RetrieveQuoteMIDlet

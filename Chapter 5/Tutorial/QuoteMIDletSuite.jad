@@ -1,0 +1,7 @@
+MIDlet-1: ObtainQuote, , ObtainQuoteMIDlet
+MIDlet-2: RetrieveQuote, , RetrieveQuoteMIDlet
+MIDlet-Name: EasyTrack
+MIDlet-Vendor: Catapult Technologies
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
